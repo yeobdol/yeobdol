@@ -1,9 +1,9 @@
 ### Hi there I'm jinyeob-jeong!👋
-Currently I'm learning Backend Development
+Currently I'm learning Backend Development and Machine learning, deep learning
 I just started coding since September, 2022
 It's my portfolio 
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning 
 - Programming languages :
 ![image](https://user-images.githubusercontent.com/108246605/204168877-ce713804-82cc-49e1-a071-f14ab1129e6c.png) ![image](https://user-images.githubusercontent.com/108246605/204168910-e5bc0b05-fe9e-4adb-b94a-e02fcbee987f.png)
 
